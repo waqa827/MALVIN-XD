@@ -41,7 +41,25 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 <p align='center'>
     </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+</details>
 
+<details>
+<summary>VIEW BOT UPDARTED AND NEW FUTURES🍂</summary>
+
+
+--------------------------
+- **ANTI-DELETED 🚀**
+- **ANTI-VIEWONCE 🚀**
+- **AUTO-UPDATE 🚀**
+- **AUTO_VOICE 🚀**
+- **AUTO_STICKER 🚀**
+- **AUTO_REPLY 🚀**
+- **ALWAYS_ONLINE_OFFLINE 🚀**
+- **STATUS_REPLY_REACT 🚀**
+- © **POWERD BY MALVIN KING**
+
+---------
+</details>
 
 **How to deploy**
 
