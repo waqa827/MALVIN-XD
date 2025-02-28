@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+MALVIN+XD+𝗩2 ❤️+;MALVIN-+XD-+𝗩2 🎉;CREATED+𝗕Y+MALVIN-KING ✔️" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+MALVIN+XD+𝗩2 ❤️+;MALVIN-+XD-+𝗩2.0.1 🎉;CREATED+𝗕Y+MALVIN-KING ✔️" alt="Typing SVG" /></a>
   </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -45,8 +45,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 <details>
 <summary>VIEW BOT UPDARTED AND NEW FUTURES🍂</summary>
-
-
+  
 --------------------------
 - **ANTI-DELETED 🚀**
 - **ANTI-VIEWONCE 🚀**
@@ -60,6 +59,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 ---------
 </details>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 **How to deploy**
 
