@@ -1,6 +1,6 @@
 {
   "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
+  "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -47,7 +47,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "MALVIN-XD"
+      "value": "✦MALVIN-XD✦"
     },
     
     
@@ -116,7 +116,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦ v2"
+      "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
 
       }, 
 
@@ -162,7 +162,7 @@
       "value": "false"
     },
     
-    "CURRENT_STATU": {
+    "CURRENT_STATUS": {
       "description": "Make it true for current status.",
       "required": false,
       "value": "false"
