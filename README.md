@@ -93,7 +93,17 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
  ***Put your session id and edit your bot confings in the settings.js***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+2. GET CREDS.JSON FILE
 
+>  if above session one not working
+
+<div align="left">
+  <a href="https://replit.com/@malvink003/JINWOO-PAIR?v=1">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+  </a>
+</div>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 **Now Deploy to any hosting of ur choice**
 
