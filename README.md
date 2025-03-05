@@ -76,8 +76,15 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
-<p align="centre">
-<a href='https://malvin-pair-7260ba936e0b.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-pink?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+---
+🔑 Get Session ID (WhatsApp Pair Code Login)
+
+> To deploy, generate your session ID from the link below:
+<p align="left">
+  <a href="https://malvin-pair-7260ba936e0b.herokuapp.com/?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+  </a>
+</p>
 
 
 
