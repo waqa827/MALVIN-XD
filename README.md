@@ -81,7 +81,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://malvin-pair-7260ba936e0b.herokuapp.com/?">
+  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
@@ -93,15 +93,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
  ***Put your session id and edit your bot confings in the settings.js***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-2. GET CREDS.JSON FILE
 
->  if above session one not working
-
-<div align="left">
-  <a href="https://replit.com/@malvink003/JINWOO-PAIR?v=1">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
-  </a>
-</div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
